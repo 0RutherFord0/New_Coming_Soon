@@ -1,1 +1,1 @@
-![Image of Yaktocat] (https://github.com/0RutherFord0/New_Coming_Soon/images/ComingSoon.PNG)
+![Image of Yaktocat] (https://github.com/0RutherFord0/New_Coming_Soon/blob/master/images/ComingSoon.PNG)
